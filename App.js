@@ -39,12 +39,12 @@ export default function App() {
   );
 }
 
-// const styles = StyleSheet.create({
-//   container: {
-//     flex: 1,
-//     alignItems: "center",
-//     justifyContent: "center",
-//     color: "#bacbb1",
-//     marginHorizontal: 16,
-//   },
-// });
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    alignItems: "center",
+    justifyContent: "center",
+    color: "#bacbb1",
+    marginHorizontal: 16,
+  },
+});
